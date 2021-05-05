@@ -1,4 +1,4 @@
-const cidade = [
+const cidades = [
   {
     type: "Feature",
     properties: {
