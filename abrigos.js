@@ -7,8 +7,22 @@ const abrigoList = [
     },
     properties: {
       name: "Centro de Zoonoses",
-      address: "Colocar enderenço",
-      phone: "83 99999-9999",
+      address:
+        "R. Isolda Barros Torquarto, s/n - Bodocongó, Campina Grande - PB, 58430-090",
+      phone: "83 3310 7062",
+    },
+  },
+  {
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [-35.9063297, -7.2291347],
+    },
+    properties: {
+      name: "Abrigo do Centenário",
+      address:
+        "Av. Mal. Floriano Peixoto, 1806 - Centenário, Campina Grande - PB, 26210-000",
+      phone: "83 4002 8922",
     },
   },
   {
@@ -19,7 +33,7 @@ const abrigoList = [
     },
     properties: {
       name: "Abrigo do Centro",
-      address: "Colocar enderenço",
+      address: "R. Félix Araújo - Centro, Campina Grande - PB, 58400-078",
       phone: "83 2323 2323",
     },
   },
@@ -31,7 +45,7 @@ const abrigoList = [
     },
     properties: {
       name: "Abrigo do Catolé",
-      address: "Colocar enderenço",
+      address: "R. Arius, 16 - Catolé, Campina Grande - PB, 58410-284",
       phone: "23 3424 4322",
     },
   },
@@ -43,7 +57,7 @@ const abrigoList = [
     },
     properties: {
       name: "Abrigo de Queimadas",
-      address: "Colocar enderenço",
+      address: "Av. Severino Bezerra Cabral, 59, Queimadas - PB, 58475-000",
       phone: "83 94388 4388",
     },
   },
