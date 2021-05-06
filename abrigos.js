@@ -49,16 +49,4 @@ const abrigoList = [
       phone: "23 3424 4322",
     },
   },
-  {
-    type: "Feature",
-    geometry: {
-      type: "Point",
-      coordinates: [-35.9022798, -7.3630898],
-    },
-    properties: {
-      name: "Abrigo de Queimadas",
-      address: "Av. Severino Bezerra Cabral, 59, Queimadas - PB, 58475-000",
-      phone: "83 94388 4388",
-    },
-  },
 ];
