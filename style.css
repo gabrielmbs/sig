@@ -6,3 +6,22 @@
 #map {
   height: 100vh;
 }
+
+.info {
+  padding: 6px 8px;
+  background: rgba(255,255,255,0.8);
+  border-radius: 5px;
+}
+
+.legend {
+  line-height: 19px;
+  color: #555;
+}
+
+.legend .icon {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
